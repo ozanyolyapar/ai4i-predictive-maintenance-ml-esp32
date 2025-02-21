@@ -7,3 +7,9 @@
 5. Compile esp32server (this might take a while)
 
 Alternatively, you can use pre-compiled binaries (under releases) to upload on esp32. 
+
+# Screenshot from ESP32 server
+![esp32 screenshot](https://raw.githubusercontent.com/ozanyolyapar/ai4i-predictive-maintenance-ml-esp32/refs/heads/main/images/esp32_screenshot.png)
+
+# F1 scores (excl. MLP on ESP32)
+![F1 scores](https://github.com/ozanyolyapar/ai4i-predictive-maintenance-ml-esp32/blob/main/images/f1.png?raw=true)
